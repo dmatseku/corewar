@@ -16,4 +16,4 @@ You must also specify the path to them in the main Makefile and to their header 
 
 A screenshot of my visual is located at the root and with the name "screenshot.png".
 
-For more information about other parts of the project, read the subject at the root of the project.
+For more information about other parts of the project, read the subject "corewar.en.pdf" at the root of the project.
