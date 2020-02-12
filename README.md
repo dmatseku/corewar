@@ -16,6 +16,6 @@ You must also specify the path to them in the main Makefile and to their header 
 
 A screenshot:
 
-![visual image](https://github.com/dmatseku/corewar/blob/master/avaj_uml.jpg)
+![visual image](https://github.com/dmatseku/corewar/blob/master/Screenshot.png)
 
 For more information about other parts of the project, read the subject "corewar.en.pdf" at the root of the project.
